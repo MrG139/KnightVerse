@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/be-17-opentelemetry-tracing",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/be-17-opentelemetry-tracing": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/be-17-opentelemetry-tracing",
+    "origin"
+  ]
+}
